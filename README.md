@@ -6,7 +6,8 @@ Analyze the ATM dataset and predict the monthly withdrawal and rating of an ATM 
 
 ## Getting Started
 
-You can view the analysis of the dataset [here]([https://www.python.org](https://github.com/mahirahman/ATM-Location-and-Revenue-Prediction/blob/main/atm_prediction.ipynb))
+You can view the analysis of the dataset:
+[Jupyter Notebook]([https://www.python.org](https://github.com/mahirahman/ATM-Location-and-Revenue-Prediction/blob/main/atm_prediction.ipynb))
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See below for prerequisite libraries and notes on how to deploy the project on a live system.
 
