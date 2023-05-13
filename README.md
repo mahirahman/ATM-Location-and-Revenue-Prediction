@@ -1,6 +1,6 @@
 # ATM-Location-and-Revenue-Prediction 🏧
 
-Analyze the ATM dataset and predict the monthly withdrawal and rating of an ATM based on the features in the dataset
+Analyze the ATM dataset and predict the monthly withdrawal and rating of an ATM based on the features in the dataset 🏧
 
 [![Made with Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
